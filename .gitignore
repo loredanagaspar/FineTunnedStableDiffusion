@@ -1,0 +1,11 @@
+#Folders
+data/
+venv/
+img/
+samples/
+__pycache__/
+*.pyc
+*.pyo
+
+#Files
+huggingface_token.txt
