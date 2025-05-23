@@ -2,6 +2,7 @@
 data/
 venv/
 img/
+wandb/
 samples/
 __pycache__/
 *.pyc
